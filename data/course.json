@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5edc4f78-a554-8a03-df00-1ca66cd0ba9c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics I: Classical Mechanics",
+  "course_description": "This class is an introduction to classical mechanics for students who are comfortable with calculus. The main topics are: Vectors, Kinematics, Forces, Motion, Momentum, Energy, Angular Motion, Angular Momentum, Gravity, Planetary Motion, Moving Frames, and the Motion of Rigid Bodies.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.012",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
